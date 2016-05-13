@@ -1,2 +1,3 @@
 # dev-html-css
-Desenvolvendo um site
+
+Aprendendo html, css e javascript.
